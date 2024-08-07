@@ -1,0 +1,20 @@
+{
+    "Create Lead - Last Name Missing Error" : {
+        "title" : "Mr.",
+        "firstname" : "John",
+        "lastname" : "",
+        "company" : "ABCDEF"
+    },
+    "Create Lead - Company Missing Error" : {
+        "title" : "Mr.",
+        "firstname" : "John",
+        "lastname" : "Doe",
+        "company" : ""
+    },
+    "Create Lead - Success" : {
+        "title" : "Mr.",
+        "firstname" : "John",
+        "lastname" : "Doe",
+        "company" : "ABCDEF"
+    }
+}
